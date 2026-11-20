@@ -1,0 +1,13 @@
+# Dataset (too big for GitHub - download from Kaggle)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
